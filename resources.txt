@@ -1,0 +1,3 @@
+Link for getting data - https://www.fao.org/faostat/en/#data/QCL
+Link for all data - https://www.fao.org/faostat/en/#data
+Link for meta data and abbreviations - https://www.fao.org/faostat/en/#data/QCL/metadata

@@ -1,0 +1,87 @@
+QCL    5064
+Name: Domain Code, dtype: int64
+
+Crops and livestock products    5064
+Name: Domain, dtype: int64
+
+356    5064
+Name: Area Code (M49), dtype: int64
+
+India    5064
+Name: Area, dtype: int64
+
+5510    5064
+Name: Element Code, dtype: int64
+
+Production    5064
+Name: Element, dtype: int64
+
+1654.00    61
+1239.01    61
+1651.00    61
+1242.00    61
+1705.00    61
+           ..
+111.00     61
+1448.00    57
+1445.00    52
+1640.00    45
+1929.02    30
+Name: Item Code (CPC), Length: 84, dtype: int64
+
+Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw    61
+Okra                                                                         61
+Pepper (Piper spp.), raw                                                     61
+Peas, green                                                                  61
+Peas, dry                                                                    61
+                                                                             ..
+Wheat                                                                        61
+Poppy seed                                                                   57
+Sunflower seed                                                               52
+Cocoa beans                                                                  45
+True hemp, raw or retted                                                     30
+Name: Item, Length: 84, dtype: int64
+
+2021    84
+1992    84
+1994    84
+1995    84
+1996    84
+        ..
+1962    81
+1967    81
+1968    81
+1969    81
+1961    81
+Name: Year Code, Length: 61, dtype: int64
+
+2021    84
+1992    84
+1994    84
+1995    84
+1996    84
+        ..
+1962    81
+1967    81
+1968    81
+1969    81
+1961    81
+Name: Year, Length: 61, dtype: int64
+
+tonnes    5064
+Name: Unit, dtype: int64
+
+A    3176
+E    1153
+T     361
+I     285
+M      89
+Name: Flag, dtype: int64
+
+Official figure                                      3176
+Estimated value                                      1153
+Unofficial figure                                     361
+Imputed value                                         285
+Missing value (data cannot exist, not applicable)      89
+Name: Flag Description, dtype: int64
+
